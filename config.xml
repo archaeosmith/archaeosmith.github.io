@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="true"
+	maxImageWidth="2000"
+	maxImageHeight="1100"
+	showExpandButton="false"
+	showThumbsButton="false"
+	showOpenButton="false"
+
+>
+  <image imageURL="https://www.dropbox.com/scl/fi/3hyhvgs1o4x7dhweu7v6b/01.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/rk60z5l1cgsmgmnatli59/01.jpg?raw=1"
+	linkURL="images/01.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/ledksv1g6yj4hw5ahcf3i/02.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/s437qgc5rsn7zjw6pd4ta/02.jpg?raw=1"
+	linkURL="images/02.jpg"
+	linkTarget="_blank"
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/iah7omwbrnn54rcjmxh5j/03.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/7g7jsor8emgqlogjbou5w/03.jpg?raw=1"
+	linkURL="images/03.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/wfmr3qhlk2q439yefv31q/04.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/in44j7avkoibrmh8jfqyu/04.jpg?raw=1"
+	linkURL="images/04.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/wlac8z97p338d61wz2ywl/05.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/t9ufsl30tzrbn8yxo72lo/05.jpg?raw=1"
+	linkURL="images/05.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/7h67fsjxve3t75xarrqvr/06.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/tvt6fbicuck8a5giqewwb/06.jpg?raw=1"
+	linkURL="images/06.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/jt2m2z576nl2kbfiifrdv/07.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/cjdeec86xisin1trsn46a/07.jpg?raw=1"
+	linkURL="images/07.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/5sqpfpdg11pc7jxl3f34z/08.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/9hn39p9dn0d2ie8b4ijk1/08.jpg?raw=1"
+	linkURL="images/08.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/nq91iiaqm5uakeicqww5p/09.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/8fgq7s9nexcz4tunokmwa/09.jpg?raw=1"
+	linkURL="images/09.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/2vjw4uwoh47bq3xk8is7s/10.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/skr2fdvsbgks1az5k2hda/10.jpg?raw=1"
+	linkURL="images/10.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/skjcgbs5ky1nx48s3av6v/11.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/1yw1ihqvhaoasraun5g74/11.jpg?raw=1"
+	linkURL="images/11.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/s5h2uavxj17oliocur5st/12.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/vasq96mqxs7goitlf21vg/12.jpg?raw=1"
+	linkURL="images/12.jpg"
+	linkTarget="_blank">
+  </image>
+  <image imageURL="https://www.dropbox.com/scl/fi/q0msoccoqx5rwab5fwwpo/13.jpg?raw=1"
+	thumbURL="https://www.dropbox.com/scl/fi/e1x3700gv38lhjp8acujd/13.jpg?raw=1"
+	linkURL="images/13.jpg"
+	linkTarget="_blank">
+  </image>
+</juiceboxgallery>
