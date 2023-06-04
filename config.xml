@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="2000"
+	maxImageHeight="1100"
+	galleryTitle="BABY"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/7s41gtkg2zxirdj/smithphotos/images/01.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/cgpy536grxw341q/smithphotos/thumbs/01.jpg"
+	linkURL="images/01.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\01.JPG">
+    <title><![CDATA[01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/ova6n6ssy9v1lfv/smithphotos/images/02.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/5ggthyiu9lyp0gs/smithphotos/thumbs/02.jpg"
+	linkURL="images/02.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\02.JPG">
+    <title><![CDATA[02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/5fg92b9fz5tyoxw/smithphotos/images/03.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/ntx7eetwrg4jyr7/smithphotos/thumbs/03.jpg"
+	linkURL="images/03.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\03.JPG">
+    <title><![CDATA[03]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/a6e7qwcexmi4qil/smithphotos/images/04.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/514wbuqa40hpxu5/smithphotos/thumbs/04.jpg"
+	linkURL="images/04.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\04.JPG">
+    <title><![CDATA[04]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/u73hqajxgj5iko5/smithphotos/images/05.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/ooyl4j0roodso7p/smithphotos/thumbs/05.jpg"
+	linkURL="images/05.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\05.JPG">
+    <title><![CDATA[05]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/97an4g6mzso0h5m/smithphotos/images/06.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/hc7nubkyyb96mnn/smithphotos/thumbs/06.jpg"
+	linkURL="images/06.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\06.JPG">
+    <title><![CDATA[06]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/w41brxdd315nrd7/smithphotos/images/07.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/llmlzyuamxpelwq/smithphotos/thumbs/07.jpg"
+	linkURL="images/07.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\07.JPG">
+    <title><![CDATA[07]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/b2stsyxlhovi3hz/smithphotos/images/08.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/120p26yy0gq6ize/smithphotos/thumbs/08.jpg"
+	linkURL="images/08.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\08.JPG">
+    <title><![CDATA[08]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/hpxnnaqyz9tp1kw/smithphotos/images/09.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/beo2jx1nzwubk2e/smithphotos/thumbs/09.jpg"
+	linkURL="images/09.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\09.JPG">
+    <title><![CDATA[09]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/i5adwg3qa6upkcs/smithphotos/images/10.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/lssa4didiu9v78h/smithphotos/thumbs/10.jpg"
+	linkURL="images/10.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\10.JPG">
+    <title><![CDATA[10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/te0zgmxc6vrter5/smithphotos/images/11.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/c7t8agu4tpsd7u0/smithphotos/thumbs/11.jpg"
+	linkURL="images/11.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\11.JPG">
+    <title><![CDATA[11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/q5kih2xxsw0urrb/smithphotos/images/12.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/76llr7jn730xlw4/smithphotos/thumbs/12.jpg"
+	linkURL="images/12.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\12.JPG">
+    <title><![CDATA[12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://dl.dropboxusercontent.com/1/view/f6jgbeesk4gcize/smithphotos/images/13.jpg"
+	thumbURL="https://dl.dropboxusercontent.com/1/view/qpb0w7mu3iu6nmw/smithphotos/thumbs/13.jpg"
+	linkURL="images/13.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\13.JPG">
+    <title><![CDATA[13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
