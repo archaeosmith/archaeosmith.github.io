@@ -7,5 +7,4 @@ options = {
         multiselect: true,
         extensions:['.jpg'],
 };
-var button = Dropbox.createChooseButton(options);
-document.getElementById("dropboxContainer").appendChild(button);
+Dropbox.choose(options);
