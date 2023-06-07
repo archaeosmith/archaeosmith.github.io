@@ -1,7 +1,6 @@
 options = {
         success: function(files){
-        },
-        cancel: function(){
+                alert("Here's the file link: " + files[0].link)
         },
         linkType: "direct",
         multiselect: true,
