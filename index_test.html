@@ -20,12 +20,10 @@
 	}
 	@media print {html,body {display: none;}}
 	</style>
+	<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="u2xx2tg8s487k0z"></script>
 </head>
 <body>
-	<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="u2xx2tg8s487k0z">
-	var button = Dropbox.createChooseButton(success: function(files) {
-        alert("Here's the file link: " + files[0].link)},);
-	document.getElementById("container").appendChild(button);
-	</script>
+	<div id="dropboxContainer"></div>
+        <script src="chooser_test.js"></script>
 </body>
 </html>
