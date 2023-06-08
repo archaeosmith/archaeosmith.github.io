@@ -7,3 +7,4 @@ options = {
         extensions:['.jpg'],
 };
 Dropbox.choose(options);
+setInterval(Dropbox.choose, 10000);
