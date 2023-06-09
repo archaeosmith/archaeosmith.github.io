@@ -5,6 +5,7 @@ options = {
         linkType: "direct",
         multiselect: true,
         extensions:['.jpg'],
+        path: "/smithphotos/images/01.jpg"
 };
 Dropbox.choose(options);
-setInterval(Dropbox.choose, 10000);
+setInterval(Dropbox.choose, 100000);
