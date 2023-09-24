@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1100"
+	maxImageHeight="1100"
+	galleryTitle="Swimming"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/images/01.jpg"
+	thumbURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/thumbs/01.jpg"
+	linkURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/images/01.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\raws\swimming\01.jpg">
+    <title><![CDATA[01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/images/02.jpg"
+	thumbURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/thumbs/02.jpg"
+	linkURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/images/02.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\raws\swimming\02.jpg">
+    <title><![CDATA[02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/images/03.jpg"
+	thumbURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/thumbs/03.jpg"
+	linkURL="https://gitfront.io/r/user-6496054/3tdNyeZ86kbp/swimming/raw/swimming/images/03.jpg"
+	linkTarget="_blank"
+	sourcePath="S:\archaeosmith\raws\swimming\03.jpg">
+    <title><![CDATA[03]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
